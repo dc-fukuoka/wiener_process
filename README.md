@@ -7,6 +7,7 @@ wiener process.
 ~~~
 $ ./wiener.py
 ~~~
-
+* graph
 ![Alt text](wiener.png?raw=true "wiener process")
+* zoomed picture
 ![Alt text](wiener_zoomed.png?raw=true "zoomed wiener process")
