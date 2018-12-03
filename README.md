@@ -8,5 +8,5 @@ wiener process.
 $ ./wiener.py
 ~~~
 
-![Alt text](weiner.png?raw=true "weiner process")
-![Alt text](weiner_zoomed.png?raw=true "zoomed weiner process")
+![Alt text](wiener.png?raw=true "wiener process")
+![Alt text](wiener_zoomed.png?raw=true "zoomed wiener process")
